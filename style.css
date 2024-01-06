@@ -8,3 +8,101 @@
 #cv-template {
   display: none;
 }
+.t1 {
+  font-weight: 600;
+  color: #333;
+}
+.t2 {
+  font-weight: 600;
+  color: aqua;
+}
+.anchor {
+  text-decoration: none;
+}
+.content {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
+.info1 {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.info2 {
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.resume {
+  margin-top: 5%;
+  margin-left: 30%;
+  height: 50%;
+  width: 50%;
+}
+.para2 {
+  margin-top: 6%;
+  margin-left: 25%;
+  display: flex;
+}
+.para2 {
+  display: flex;
+}
+.p1 {
+  width: 40%;
+  background-color: blueviolet;
+}
+.p1 img {
+  min-height: 20px;
+  max-height: 350px;
+  border-radius: 7px;
+  width: auto;
+}
+.p2 {
+  width: 40%;
+  height: 70px;
+  padding: 18px;
+}
+.para3 {
+  display: flex;
+}
+.para3 img {
+  height: 20%;
+  border-radius: 7px;
+}
+.para3 .p32 img {
+  height: 18%;
+}
+.para3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.para3 .p31,
+.para3 .p32,
+.para3 .p33 {
+  width: 30%;
+  text-align: center;
+}
+
+.para3 img {
+  height: 40%;
+  border-radius: 7px;
+}
+
+.para3 h4 {
+  font-size: 18px;
+  margin-top: 10px;
+}
+.para3 p {
+  font-size: 14px;
+  margin-top: 8px;
+}
+.para3 .p32 img {
+  height: 21%;
+}
+.para3 {
+  padding: 10px;
+  height: 200px;
+  background-color: antiquewhite;
+}
