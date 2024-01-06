@@ -40,7 +40,7 @@
   height: 50%;
   width: 50%;
 }
-.para2 {
+/* .para2 {
   margin-top: 6%;
   margin-left: 25%;
   display: flex;
@@ -62,47 +62,82 @@
   width: 40%;
   height: 70px;
   padding: 18px;
-}
-.para3 {
+} */
+.para2 {
   display: flex;
-}
-.para3 img {
-  height: 20%;
-  border-radius: 7px;
-}
-.para3 .p32 img {
-  height: 18%;
-}
-.para3 {
-  display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: 5%;
 }
 
+.para2 img {
+  height: 75%;
+  width: 100%;
+  border-radius: 7%;
+}
+
+.p1 {
+  width: 100%;
+}
+
+.p2 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+@media (min-width: 768px) {
+  .para2 {
+    margin-left: 10%;
+  }
+  .p1 {
+    width: 50%;
+  }
+  .p2 {
+    width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .para2 {
+    margin-left: 15%;
+  }
+  .p1 {
+    width: 40%;
+  }
+  .p2 {
+    width: 60%;
+  }
+}
+
+/*.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+} */
+
+.para3 {
+  display: flex;
+  background-color: rgb(230, 205, 171);
+  padding: 15px;
+  height: 10%;
+}
+
+.para3 img {
+  height: 30%;
+  margin-top: 9px;
+  width: 35%;
+}
 .para3 .p31,
 .para3 .p32,
 .para3 .p33 {
   width: 30%;
   text-align: center;
-}
-
-.para3 img {
-  height: 40%;
-  border-radius: 7px;
-}
-
-.para3 h4 {
-  font-size: 18px;
-  margin-top: 10px;
-}
-.para3 p {
-  font-size: 14px;
-  margin-top: 8px;
-}
-.para3 .p32 img {
-  height: 21%;
-}
-.para3 {
+  font-size: 13.5px;
   padding: 10px;
-  height: 200px;
-  background-color: antiquewhite;
 }
