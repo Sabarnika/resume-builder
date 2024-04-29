@@ -6,9 +6,4 @@
 
 
 
-               
-               ![image](https://github.com/Sabarnika/resume-builder/assets/98590604/82821fb1-39b3-401f-928f-9a3b6467f440)
-
-
-               ![image](https://github.com/Sabarnika/resume-builder/assets/98590604/e6327bc4-515b-4b63-9e58-dae4b83ec5ce)
-
+             
