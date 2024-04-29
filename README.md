@@ -3,8 +3,14 @@
 
 **Solution :**  Creating a web application which simplifies the resume creation process, making it accessible to everyone, even those without design skills. With easy-to-use templates and intuitive tools, 
                 users can quickly craft professional-looking resumes tailored to their specific needs.
+##### Stacks i have used
 
-<img src="![image](https://github.com/Sabarnika/resume-builder/assets/98590604/3346f0dd-4373-45be-9d4f-5babd03a9f37)
-" alt="" />
+* HTML
+* CSS
+* JAVASCRIPT
+
+### images:
+
+![Screenshot 2024-04-30 013506](https://github.com/Sabarnika/resume-builder/assets/98590604/c59a4efd-a32e-4de6-8c9c-00b862f2837d)
 
              
