@@ -12,5 +12,7 @@
 ### images:
 
 ![Screenshot 2024-04-30 013506](https://github.com/Sabarnika/resume-builder/assets/98590604/c59a4efd-a32e-4de6-8c9c-00b862f2837d)
+![Screenshot 2024-04-29 224803](https://github.com/Sabarnika/resume-builder/assets/98590604/4e1fe95e-2db1-4d58-8ae4-0605c8d15da4)
+
 
              
