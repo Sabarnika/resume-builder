@@ -3,7 +3,7 @@
 
 **Solution :**  Creating a web application which simplifies the resume creation process, making it accessible to everyone, even those without design skills. With easy-to-use templates and intuitive tools, 
                 users can quickly craft professional-looking resumes tailored to their specific needs.
-##### Stacks i have used
+##### Stacks I have used
 
 * HTML
 * CSS
